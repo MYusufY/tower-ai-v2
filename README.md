@@ -13,14 +13,21 @@ It converts Speech-To-Text first. Then it sends the result to the chosen AI mode
 # Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/MYusufY/tower-ai.git
-   cd tower-ai
+   git clone https://github.com/MYusufY/tower-ai-v2.git
+   cd tower-ai-v2
    ```
-2. Switch to "myenv" which has all the required libraries and setup
+2. Install the requirements
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. (OPTIONAL) Switch to "myenv" which has all the required libraries and setup
+
+   You can install the venv to directly have all required libraries installed instead using requirements.txt.
    ```
    source myenv/bin/activate
    ```
-3. Run the AI/API script
+5. Run the AI/API script
    
    TowerAI custom model:
    ```
@@ -30,7 +37,7 @@ It converts Speech-To-Text first. Then it sends the result to the chosen AI mode
    ```
    python3 tower-ai-api.py
    ```
-5. Set API key (if you are using Gemini)
+6. Set API key (if you are using Gemini)
    To get an API key, you can follow the steps [of my LVGL Gemini project.](https://github.com/MYusufY/lvgl-gemini/wiki)
 
 # Contact
