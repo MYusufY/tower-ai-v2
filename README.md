@@ -53,7 +53,7 @@ There should be tower-ai!
    ```
    python3 tower-ai-custom.py
    ```
-   *To run the tower-ai-custom.py script, you need to [install TowerAI v2 3B model](https://github.com/MYusufY/tower-ai-v2/edit/main/README.md#install-towerai-v2-3b) first!*
+   *To run the tower-ai-custom.py script, you need to [install TowerAI v2 3B model](https://github.com/MYusufY/tower-ai-v2?tab=readme-ov-file#install-towerai-v2-3b) first!*
    Google Gemini 1.5 Flash API:
    ```
    python3 tower-ai-api.py
