@@ -43,7 +43,7 @@ There should be tower-ai!
 
 4. (OPTIONAL) Switch to "myenv" which has all the required libraries and setup
 
-   You can install the venv to directly have all required libraries installed instead using requirements.txt.
+   You can install the venv to directly have all required libraries installed instead using requirements.txt. You can find myenv [from old repo.](https://github.com/MYusufY/tower-ai)
    ```
    source myenv/bin/activate
    ```
@@ -54,11 +54,12 @@ There should be tower-ai!
    python3 tower-ai-custom.py
    ```
    *To run the tower-ai-custom.py script, you need to [install TowerAI v2 3B model](https://github.com/MYusufY/tower-ai-v2?tab=readme-ov-file#install-towerai-v2-3b) first!*
+
    Google Gemini 1.5 Flash API:
    ```
    python3 tower-ai-api.py
    ```
-6. Set API key (if you are using Gemini)
+7. Set API key (if you are using Gemini)
    To get an API key, you can follow the steps [of my LVGL Gemini project.](https://github.com/MYusufY/lvgl-gemini/wiki)
 
 # Contact
