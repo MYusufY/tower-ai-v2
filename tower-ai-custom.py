@@ -29,7 +29,7 @@ class ask_AIr:
                 return None
 
     def ask_ai(self, question):
-        response: ChatResponse = chat(model='tower-ai', messages=[
+        response: ChatResponse = chat(model='MYusuf/tower-ai', messages=[
         {
             'role': 'user',
             'content': '{qstn}'.format(qstn=question),
