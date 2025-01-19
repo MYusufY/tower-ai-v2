@@ -10,6 +10,9 @@ Tower for RC Planes, for a better flight simulation.
 # YouTube Video
 [Here you can find the YouTube video tutorial.](https://www.youtube.com/watch?v=1MKTU9S0DMI)
 
+# yAI website
+[Here you can find the official yAI website.](https://x-y-ai.web.app/)
+
 # AI Model
 TowerAI is a custom LLM model based on *LLaMA3.2 3B.* Thanks to OLLaMA and the custom AI model, it's working at least *36.36%* faster than the old version which uses the Gemini 1.5 Flash API. Also, the old version uses WiFi, and this model can work on an average laptop locally. It doesn't need supercomputers; it has only 3B parameters. It works perfectly on a MacBook Air 2017 and Lenovo ThinkPad. You can even use Nvidia's new Jetson Nano Super for improved portability. Of course, it's not tested, and it should work 99%.
 
