@@ -1,4 +1,4 @@
-# tower-ai
+# tower-ai-v2 by yAI
 Tower for RC Planes, for a better flight simulation.
 
 # Ollama Page
